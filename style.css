@@ -1,0 +1,135 @@
+body{
+    background-image: linear-gradient(to right, #87CEEB , #00008B);
+}
+.contact{
+    padding: 105px;
+    margin-left: 90px;
+}
+.contact-01{
+    height: 550px;
+    width: 900px;
+    background-color: white;
+    padding: 8px;
+}
+.form{
+   margin-top: 30px;   
+}
+.form-01{
+    position: relative;
+    left: 44%;
+}
+.form-01 button{
+    margin-top: 15px;
+    height: 35px;
+    width: 130px;
+    background-color: #66ff66;
+    font-weight: bold;
+    border: 3px solid #66ff66;
+}
+.form-01 button:hover{
+    background-color: transparent;
+}
+.form-01 h2{
+   border-bottom: 1px solid ;
+   width: 20%;
+}
+.inputs{
+    line-height: 2;
+    margin-top: 45px;
+    font-size: 15px;
+}
+.inputs #messege{
+    height: 70px;
+}
+.inputs input{
+    width: 450px;
+    border: none;
+    border-bottom: 1.5px solid black;   
+}
+.inputs input:focus{
+    outline: none;
+}
+.info{
+    height: 485px;
+    width: 330px;
+    background-color: #005A80;
+    position: absolute;
+    bottom: 27%;
+    left: 8%; 
+}
+.info-01 h2{
+    color: wheat;
+    margin-left: 15px;
+    width: 43%;
+    border-bottom: 1px solid #fff; 
+}
+.details{
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 35px;
+    color: white;
+    justify-content: center;
+    line-height: 2;
+}
+.icons i{
+   display: block;
+   line-height: 2.5;
+   border: 1px solid #66ff66;
+   border-radius: 100%;
+   width: 35px;
+   height: 35px;
+   text-align: center;
+   padding-bottom: 4px; 
+   background-color: #66ff66;
+}
+.icons i:hover{
+    background-color: transparent;
+}
+}
+.icon-2 {
+    line-height: 2; 
+}
+.icon-2 #icon-1, #icon-1{
+    margin-top: 10px;
+}
+.address{
+    margin-left: 60px;
+    position: absolute;
+    top: -10%;
+    font-family: sans-serif;
+    font-weight: 300;
+    line-height: 1;  
+}
+.address #lorem{
+    margin-top: 30px;
+}
+.social{
+    margin-top: 85%;
+    color: white;
+    margin-left: 15px;
+}
+.social h3{
+    font-size: 25px;
+    font-weight: 300;
+}
+.social-icon{
+    font-size: 20px;
+    font-weight: 300;
+    text-indent: 5px;
+    word-spacing: 27px;
+    margin-left: -4px;
+}
+.social-icon i{
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-left: -4px;
+    padding-top: 8px;
+    padding-right: 4px; 
+}
+.social-icon i:hover{
+    background-color: #66ff66;
+}
